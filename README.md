@@ -1,0 +1,2 @@
+# newDir
+Second repository
