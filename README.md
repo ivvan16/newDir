@@ -1,2 +1,1 @@
-# newDir
-Second repository
+The first initial change.
